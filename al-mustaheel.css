@@ -1,0 +1,11 @@
+.fkex {
+ display: flex;
+}
+
+.align {
+ align-items: cewnter ;
+}
+
+.justify {
+ justify-content: center; 
+}
