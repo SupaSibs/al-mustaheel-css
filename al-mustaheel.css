@@ -1618,3 +1618,7 @@ html {
     border-color: #e7ffff !important;
   }
   
+ .button {
+appearance: button;
+}
+
