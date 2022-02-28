@@ -1143,6 +1143,9 @@ html {
    .am-rightbar {
    border-right: 6px solid #ccc !important;
    }
+   .am-bar {
+   border: 6px solid #ccc !important;
+   }
    .am-section,
    .am-code {
    margin-top: 16px !important;
